@@ -1,6 +1,5 @@
 # Competitive_Programming
-Contains lots of Algorithms and Data Structure Questions and Solutions
-Topics like :-
+A repository contains lots of Algorithms and Data Structure Questions and Solutions like :-
 1) Math (Number Theory, combinatorics , Geometry etc)
 2) Data Structures
 3) Dynamic Programming
