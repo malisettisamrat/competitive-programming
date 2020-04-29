@@ -1,4 +1,4 @@
-// .. Implementation of Single Source Shortest Path in c++
+// .. Implementation of Single Source Shortest Path in c++ (Only Works for Trees)(N-1 Edges) ..
 
 vector< int > adj[10001];
 vector< bool > vis(10001);
